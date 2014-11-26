@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: http://joseivanlopez.github.io/sitemap.xml
