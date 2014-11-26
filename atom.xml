@@ -4,7 +4,7 @@
   <title><![CDATA[Hacker Monkeys]]></title>
   <link href="http://joseivanlopez.github.io/atom.xml" rel="self"/>
   <link href="http://joseivanlopez.github.io/"/>
-  <updated>2014-11-26T14:23:04+00:00</updated>
+  <updated>2014-11-26T14:42:53+00:00</updated>
   <id>http://joseivanlopez.github.io/</id>
   <author>
     <name><![CDATA[José Iván López]]></name>
@@ -32,7 +32,14 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
     <link href="http://joseivanlopez.github.io/posts/insertando-imagenes/"/>
     <updated>2014-11-26T11:31:48+00:00</updated>
     <id>http://joseivanlopez.github.io/posts/insertando-imagenes</id>
-    <content type="html"><![CDATA[<p><img src="http://joseivanlopez.github.io/images/rss.png" alt="Mi imageen" /></p>
+    <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+<p><img src="http://joseivanlopez.github.io/images/rss.png" alt="Mi imageen" /></p>
 
 <div class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
   <span class="nb">puts</span> <span class="s2">&quot;Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">&quot;</span>
