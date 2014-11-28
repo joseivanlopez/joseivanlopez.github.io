@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: http://joseivanlopez.github.io/sitemap.xml
+Sitemap: http://hackermonkeys.com/sitemap.xml
